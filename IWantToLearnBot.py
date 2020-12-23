@@ -20,7 +20,6 @@ learn_reply = replies["learn"]
 
 tech_title = ["code", "program", "computer"]
 
-
 focus_titles = ["focus", "attention"]
 focus_reply = replies["focus"]
 
